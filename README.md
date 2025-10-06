@@ -1,4 +1,4 @@
-# AffectAI — Emotion-Driven Reasoning Agent (from scratch)
+# AffectAI — Emotion-Driven Reasoning Agent
 
 A minimal, extensible affective computing core that models emotions (VAD), appraises events (OCC-inspired),
 lets emotions influence decisions, and learns online from text feedback. No external ML packages.
